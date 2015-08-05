@@ -1,0 +1,11 @@
+.sample {
+  &__title {
+    color: red;
+  }
+
+  &__cta {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+  }
+}
